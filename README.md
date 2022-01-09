@@ -48,6 +48,7 @@ Need:
 
 Total costs: ± 600 euro's
 ```
+> [PayPal](https://paypal.me/realsaiko)
 
 
 <p>&nbsp;</p>    
@@ -56,5 +57,5 @@ Total costs: ± 600 euro's
 
 <p align="center"> 
   Visits counter :<br>
-  <img src="https://profile-counter.glitch.me/VezCodezCounter/count.svg" />
+  <img src="https://profile-counter.glitch.me/VezCodesCounter/count.svg" />
 </p>
