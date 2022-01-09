@@ -30,6 +30,25 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VezCodes&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
 </p>
 
+# Donate
+## Why should you donate?
+### Because I do in real life IT projects!
+List of projects:
+```
+Finished:
+	- I've bought a ESP8266 board with WiFi Module, made a WiFi Deauther and a Phisher
+
+Ordered:
+  	- 2x ESP32 with Camera Module, one for me, one for my friend (Also doing Cyber Security)
+
+Need:
+  	- 2x Raspberry PI 8GB
+  	- 2x WiFi PineApple
+  	- 1x WiFi Alpha Adapter
+
+Total costs: ± 600 euro's
+```
+
 
 <p>&nbsp;</p>    
 
@@ -37,5 +56,5 @@
 
 <p align="center"> 
   Visits counter :<br>
-  <img src="https://profile-counter.glitch.me/VezCodez/count.svg" />
+  <img src="https://profile-counter.glitch.me/VezCodezCounter/count.svg" />
 </p>
