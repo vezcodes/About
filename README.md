@@ -35,6 +35,6 @@
 ---  
 
 <p align="center"> 
-  Compteur de visites :<br>
+  Visits counter :<br>
   <img src="https://profile-counter.glitch.me/VezCodes/count.svg" />
 </p>
