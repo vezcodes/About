@@ -37,5 +37,5 @@
 
 <p align="center"> 
   Visits counter :<br>
-  <img src="https://profile-counter.glitch.me/VezCodes/count.svg" />
+  <img src="https://profile-counter.glitch.me/VezCodez/count.svg" />
 </p>
