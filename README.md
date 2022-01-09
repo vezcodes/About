@@ -1,5 +1,6 @@
 <p align='center'>
-  <b>Hello, Vez Codez here!</b><br>
+  <h1>Hello, Vez Codez here!</h1><br>
+  <p>A Cyber Security Guard, Developer in HTML, CSS, JS, Python, NODEJS and c#, I do repair devices too!</p>
   <a href="https://www.youtube.com/vez007">YouTube</a> |
   <a href="https://twitter.com/vezcodez">Twitter</a> |
 	  <a href="https://instagram.com/mo.z079">Instagram</a>
