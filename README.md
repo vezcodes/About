@@ -3,7 +3,8 @@
   <p>A Cyber Security Guard, Developer in HTML, CSS, JS, Python, NODEJS and c#, I do repair devices too!</p>
   <a href="https://www.youtube.com/vez007">YouTube</a> |
   <a href="https://twitter.com/vezcodez">Twitter</a> |
-	  <a href="https://instagram.com/mo.z079">Instagram</a>
+	  <a href="https://instagram.com/mo.z079">Instagram</a> |
+  <a href="https://discord.gg/PpqYechhcr">Discord</a>
 </p>
 
 <p align="center"><br>
