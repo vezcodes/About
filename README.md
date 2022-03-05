@@ -4,7 +4,9 @@
   <a href="https://www.youtube.com/vez007">YouTube</a> |
   <a href="https://twitter.com/vezcodez">Twitter</a> |
 	  <a href="https://instagram.com/mo.z079">Instagram</a> |
-  <a href="https://discord.gg/PpqYechhcr">Discord</a>
+  <a href="https://discord.gg/PpqYechhcr">Discord</a> |
+   <a href="https://vezcodez.xyz">Website</a>
+  
 </p>
 
 <p align="center"><br>
